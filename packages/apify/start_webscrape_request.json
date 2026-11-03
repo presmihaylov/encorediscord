@@ -5,7 +5,7 @@
     }
   ],
   "useSitemaps": false,
-  "crawlerType": "playwright:adaptive",
+  "crawlerType": "cheerio",
   "includeUrlGlobs": [],
   "excludeUrlGlobs": [],
   "ignoreCanonicalUrl": false,
